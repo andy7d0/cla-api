@@ -1,15 +1,11 @@
-# Claude-GPT-API
-Free API for Claude and GPT 3.5 chat completion.
-
-### Use Hosted API
-Base URL : [https://claude-gpt-api.onrender.com]
-#### Hosted on cyclic.com
+# Cl-GPT-API
+API for Cl chat completion.
 
 ### Host private instance : 
 1. Local Machine : 
 ```bash
-git clone https://github.com/adityabh2007/Claude-GPT-API
-cd Claude-GPT-API
+git clone https://github.com/andy7d0/cla-api
+cd cla-api
 npm install express axios body-parser uuid
 node app.js
 ```
@@ -20,7 +16,7 @@ node app.js
     a. A GitHub account
     b. A Render.com account
   2. Fork the Repository
-  Go to the [Github Repo](https://github.com/adityabh2007/Claude-GPT-API).  
+  Go to the [Github Repo](https://github.com/andy7d0/cla-api).  
   Click on the "Fork" button in the upper right corner of the page.
 
   3. Connect GitHub to Render.com  
