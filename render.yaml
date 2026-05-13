@@ -1,9 +1,9 @@
 # Exported from Render on 2024-05-21T09:28:21Z
 services:
 - type: web
-  name: Claude-GPT-API
+  name: cla-api
   runtime: node
-  repo: https://github.com/adityabh2007/Claude-GPT-API
+  repo: https://github.com/andy7d0/cla-api
   plan: free
   region: oregon
   buildCommand: npm install express axios body-parser uuid
